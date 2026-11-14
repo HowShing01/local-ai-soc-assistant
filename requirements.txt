@@ -1,0 +1,16 @@
+# User Interface
+streamlit
+
+# Vector Database
+chromadb
+
+# Document Processing
+pypdf
+python-docx
+pandas
+
+# Ollama API Communication
+requests
+
+# Environment Configuration
+python-dotenv
